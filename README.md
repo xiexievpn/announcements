@@ -4,7 +4,7 @@
 
 本仓库主要用于发布项目全局性通知，包括但不限于：
 - 🚀 **前后端架构升级与接口变更**
-- 📱 **各端客户端（Windows / Android / Linux ）版本发布与更新日志**
+- 📱 **各端客户端（Windows / Android / Linux）版本发布与更新日志**
 - 🌐 **服务器节点、网络线路维护与新协议适配**
 - 🔒 **安全与隐私保障通报**
 
@@ -28,5 +28,4 @@
 - **Windows 客户端**: [xiexievpn/winclient](https://github.com/xiexievpn/winclient)
 - **Android 客户端**: [xiexievpn/android-client](https://github.com/xiexievpn/android-client)
 - **Linux 客户端**: [xiexievpn/xiexievpn-linux](https://github.com/xiexievpn/xiexievpn-linux)
-- **macOS 客户端**: [xiexievpn/macos](https://github.com/xiexievpn/macos)
 - **官网**: [xiexievpn.com](https://xiexievpn.com)
